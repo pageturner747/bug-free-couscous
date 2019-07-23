@@ -11,6 +11,7 @@ This is some information about my first GitHub adventure.
 ## My team
 * **People**
   * Me
+  * Qbie the Cheese & Bacon Croissant :croissant::bacon:
 * **Inanimate objects**
   * Coffee
   * Fluffy grey keychain
