@@ -15,4 +15,4 @@ This is some information about my first GitHub adventure.
   * Coffee
   * Fluffy grey keychain
 * **Mythical creatures**
-  * Eunice the Unicorn
+  * Eunice the Unicorn :unicorn:
