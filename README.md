@@ -1,4 +1,4 @@
-# bug-free-couscous :honeybee:
+# bug-free-couscous :honeybee::no_entry_sign:	
 My first repo
 ## About
 This is some information about my first GitHub adventure.
