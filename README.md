@@ -12,7 +12,8 @@ This is some information about my first GitHub adventure.
 * **People**
   * Me
 * **Inanimate objects**
-  * Coffee
-  * Fluffy grey keychain
+  * Coffee:coffee:
+  * Fluffy grey keychain:radio_button:
 * **Mythical creatures**
   * Eunice the Unicorn :unicorn:
+  * 
