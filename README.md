@@ -16,4 +16,4 @@ This is some information about my first GitHub adventure.
   * Fluffy grey keychain:radio_button:
 * **Mythical creatures**
   * Eunice the Unicorn :unicorn:
-  * Gary the Forking Giraffe:giraffe:
+  * Gary the Forking Tiger:tiger:
