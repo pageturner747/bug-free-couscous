@@ -10,10 +10,10 @@ This is some information about my first GitHub adventure.
 
 ## My team
 * **People**
-  * Me
+  * Me:blue_heart:
 * **Inanimate objects**
   * Coffee:coffee:
   * Fluffy grey keychain:radio_button:
 * **Mythical creatures**
   * Eunice the Unicorn :unicorn:
-  * 
+  * Gary the Forking Giraffe:giraffe:
